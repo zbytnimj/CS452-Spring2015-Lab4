@@ -1,0 +1,6 @@
+CS452/EE465 Computer Graphics Spring 2015
+
+Lab #4
+due: Tuesday, 3/31/15 at midnight
+
+Add at least one texture to your object(s) in Lab #3. 
